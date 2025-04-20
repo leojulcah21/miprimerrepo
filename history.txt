@@ -2,4 +2,6 @@ Hola, me llamo Nathan Julcah y soy programador web.
 
 Tengo 21 años y estudié en el Instituto Superior SISE.
 
-La carrera que cursé es "Desarrollo de Sistemas de la Información", organizada por la escuela "ETI"
+La carrera que llevé es "Desarrollo de Sistemas de la Información", organizada por la escuela "ETI"
+
+Vivo en Perú, específicamente en su capital (Lima).
